@@ -22,10 +22,14 @@
 欢迎你加入到这段旅程中来！
 
 ## 代码阅读
-- [ ] [WSGI服务器 —— bjoern](https://github.com/uncle-lv/bjoern-with-comments)
+- ~~[WSGI服务器 —— bjoern](https://github.com/uncle-lv/bjoern-with-comments)~~
+- [x] [cgi-http-Server](https://github.com/uncle-lv/cgi-http-server)
 
 ## 实现
-- [ ] [简化版bjoern —— mikro](https://github.com/uncle-lv/mikro)
+- ~~[简化版bjoern —— mikro](https://github.com/uncle-lv/mikro)~~
+- [x] [cgi-http-Server](https://github.com/uncle-lv/cgi-http-server)
+
+注：在阅读bjoern源码的过程中，我发现虽然bjoern的源码较少，但涉及的知识点比较多，所以我自己实现了一个简单cgi服务器。
 
 ---
 ## English
@@ -51,7 +55,11 @@ I will try to implement the above code one by one with reference to build-your-o
 You are welcome to join this journey!
 
 ## Code Reading
-- [ ] [*bjoern*, WSGI Server](https://github.com/uncle-lv/bjoern-with-comments)
+- ~~[*bjoern*, WSGI Server](https://github.com/uncle-lv/bjoern-with-comments)~~
+- [x] [cgi-http-Server](https://github.com/uncle-lv/cgi-http-server)
 
 ## Implementions
-- [ ] [*mikro*, a simplified version of bjoern ](https://github.com/uncle-lv/mikro)
+- ~~[*mikro*, a simplified version of bjoern ](https://github.com/uncle-lv/mikro)~~
+- [x] [cgi-http-Server](https://github.com/uncle-lv/cgi-http-server)
+
+Note: When I finished reading the bjoern source code, I have found that although the source code is small, it involves too many knowledge points, so I implemented a simple cgi server instead.
